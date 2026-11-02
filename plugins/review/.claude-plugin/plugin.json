@@ -1,0 +1,6 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "Declares its version in plugin.json",
+  "author": { "name": "Demo Publisher" }
+}

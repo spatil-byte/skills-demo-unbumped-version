@@ -1,0 +1,7 @@
+{
+  "name": "unbumped-demo",
+  "owner": { "name": "Demo Publisher" },
+  "plugins": [
+    { "name": "review", "source": "./plugins/review", "description": "Declares version 1.0.0 in plugin.json" }
+  ]
+}
